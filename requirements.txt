@@ -1,0 +1,9 @@
+flask
+feedparser
+requests
+beautifulsoup4
+openai
+gunicorn
+apscheduler
+pytz
+
