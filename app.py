@@ -26,7 +26,7 @@ logger = logging.getLogger(__name__)
 # ==============================
 # تنظیمات ثابت
 # ==============================
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "MY_KEY"
 OUTPUT_DIR = Path("static")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
